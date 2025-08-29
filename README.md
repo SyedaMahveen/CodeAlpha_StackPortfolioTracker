@@ -57,3 +57,4 @@ Ensured error handling for invalid inputs
 
 OUTPUT:
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1450e850-821f-4c89-be10-00839a96af4a" />
